@@ -15,6 +15,12 @@ Author URI: http://risbl.co/wp
 License: GPLv2 or later
 
 
+
+
+[plugin-screenshot]: https://raw.githubusercontent.com/kharissulistiyo/WooCommerce-Sales-Counter/master/screenshot-1.png "WooCommerce Sales Counter"
+
+
+
 ### Basic Setup
 
 ```
