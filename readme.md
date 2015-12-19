@@ -1,11 +1,19 @@
 # WooCommerce Sales Counter Extension
 
 Plugin Name: WooCommerce Sales Counter
+
 Plugin URI: http://risbl.co/wp/woocommerce-sales-counter-extension/
+
 Description: Display WooCommerce product sales counter using a very simple shortcode.
+
 Author: Kharis Sulistiyono
+
 Version: 1.0
+
 Author URI: http://risbl.co/wp
+
+License: GPLv2 or later
+
 
 ### Basic Setup
 
